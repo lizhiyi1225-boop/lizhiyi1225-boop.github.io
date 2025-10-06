@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8" />
+ <meta name="viewport" content="width=device-width,initial-scale=1" />
+ <title>Project Proposal — Tourist attraction traffic trends</title>
+ <style>
+body { font-family: Arial, Helvetica, sans-serif; background:#f7f7f7; color:#111;
+margin:0; padding:24px; }
+.card { max-width:900px; margin:24px auto; background:#fff; padding:24px;
+border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); }
+h1 { margin:0 0 12px 0; font-size:22px; }
+h2 { margin:18px 0 8px 0; font-size:16px; }
+p { margin:8px 0; line-height:1.5; }
+ul { margin:8px 0 8px 20px; }
+footer { margin-top:16px; color:#666; font-size:13px; }
+ </style>
+</head>
+<body>
+ <div class="card">
+<h1>Project Proposal — Trend of tourist attraction foot traffic</h1>
+<h2>Background</h2>
+<p>Tourist sites often get crowded at peak times. Crowds can lower the visitor experience and raise safety risks. Using data to watch 
+visitor flow can help sites plan better and help visitors pick better times to go.</p>
+<h2>Objectives</h2>
+<p>The project has three main goals:</p>
+<ul>
+<li>Show real-time changes in visitor numbers, such as holidays or sudden weather changes.</li>
+<li>Show long-term trends, such as busy seasons and yearly patterns.</li>
+<li>Present the findings with clear charts and short text so people can understand at a glance.</li>
+</ul>
+<h2>Data Collection</h2>
+<p>We will use two types of data. Real-time data can come from ticket gates, map heat data, and online booking numbers. Long-term data can 
+come from past ticket records, search trends, hotel bookings, and official reports. If needed, we will also use simulated sample data.</p>
+<h2>Methods and Presentation</h2>
+<p>We will clean and combine data from different sources. Then we will make simple charts such as line charts, bar charts, and heat maps. 
+We will put the charts in a single web page. Short text will explain each chart. The page will let readers see both quick snapshots and longer 
+trends.</p>
+<h2>Expected Outcome</h2>
+<p>The result will be a web page with short explanations and clear charts. The page will show when sites are busiest and how patterns 
+change over time. The work aims to help site managers plan staff and services and to help visitors choose less crowded times.</p>
+<footer>
+<p>Format: text story + visuals. Deliverable: single HTML page with charts and short text.</p>
+</footer>
+ </div>
+</body>
+</html>
